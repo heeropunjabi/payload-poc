@@ -1,5 +1,5 @@
 # How to run payload locally using Mongodb docker container.
-    1. start the docker container
+    1. start the docker locally
     2. docker run -d --name mongo-service  \
 	    -e MONGO_INITDB_ROOT_USERNAME=root \
 	    -e MONGO_INITDB_ROOT_PASSWORD=root \
